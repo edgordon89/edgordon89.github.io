@@ -16,6 +16,7 @@
 
 $site-header-colour: #fff;
 $site-description-colour: #fbf3f3;
+$nav-link-colour: #fbf3f3;
 
 
 /**************/
@@ -244,7 +245,7 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $darkGray;
+    color: $nav-link-colour;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
