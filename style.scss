@@ -9,6 +9,15 @@
 @import "variables";
 // Syntax highlighting @import is at the bottom of this file
 
+
+/*********************/
+/* COLOUR VARIABLES */
+/********************/
+
+$site-header-colour: #fff;
+$site-description-colour: #fbf3f3;
+
+
 /**************/
 /* BASE RULES */
 /**************/
@@ -202,7 +211,7 @@ img {
 
 .site-name {
   margin: 0;
-  color: $white;
+  color: $site-header-colour;
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
@@ -212,7 +221,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $gray;
+  color: $site-description-colour;
   font-size: 16px;
 
   @include mobile {
