@@ -18,6 +18,13 @@ $site-header-colour: #fff;
 $site-description-colour: #fbf3f3;
 $nav-link-colour: #fbf3f3;
 
+/*********************/
+/* FONT VARIABLES */
+/********************/
+
+$header-font: 'Raleway', sans-serif;
+$body-font: 'Lato', sans-serif;
+
 
 /**************/
 /* BASE RULES */
@@ -29,7 +36,7 @@ html {
 
 body {
 	background: $white;
-  font: 18px/1.4 $helvetica;
+  font: 18px/1.4 $body-font;
   color: $darkGray;
 }
 
@@ -41,7 +48,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
+  font-family: $header-font;
   color: $darkGray;
   font-weight: bold;
 
