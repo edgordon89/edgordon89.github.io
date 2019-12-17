@@ -4,7 +4,7 @@ title: The first (post) amongst equals
 ---
 
 ## Aims of the blog
- + To provide some tips on how to be a Product Manager, based on my experience. I've only been in the job since 2016, maybe hearing from a noob is more appealing to you than someone more qualified.
+ + To provide some tips on how to be a Product Manager, based on my experience. I've only been in the job since 2016, maybe hearing from a noob <!--more-->is more appealing to you than someone more qualified.
  + To re-enforce the idea that Product Management, based on my experience, is absolutely nothing like you learn on training or read in books.
  + To help myself interpret what I know by writing it out.
  + To put as a link on my CV... Hello future employer, you are my only reader...
