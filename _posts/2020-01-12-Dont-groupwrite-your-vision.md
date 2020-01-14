@@ -11,7 +11,7 @@ Luckily there is a solution to this. And it's not that you - as a Product Manage
 ## BYO vision
 When we recently ran a workshop to thrash out our product vision, we did it in 20 minutes. And it's as serviceable as one that took all day. Here's how we did it:
 
-  1. We only invited people who know about your product.
+  1. We only invited people who knew about the problem area already.
   2. Everyone in the room got one post-it.
   3. On that post-it, they wrote what they thought the vision for the product should be. This took 5 minutes.
   4. Everyone put their post-its on the wall without comment.
