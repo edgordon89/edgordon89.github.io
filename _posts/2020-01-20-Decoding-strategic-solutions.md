@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Decoding the tactical - the language of big business
+title: Decoding the Tactical - The Language of Big Business
 ---
 If you work within a big business for long enough, you soon hear the distinction between 'tactical' and 'strategic'. Tactical is the war-room fix, the 'get-it-over-the-line', the 'we-know-it's-not-great-but...' type of solution. Strategic is the inverse: 'ideal-world', 'obviously-we-should-do-it-like-this-but...'.
 <!--more-->

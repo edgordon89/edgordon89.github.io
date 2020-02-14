@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The first (post) amongst equals
+title: Aims of the Blog
 ---
 
 ## Aims of the blog

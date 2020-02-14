@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Product Cartography and the industry of mapping
+title: Product Cartography and the Industry of Mapping
 ---
 Product, as a function, has a tendency to produce elaborate, visual, maps and diagrams that require a key to understand and link-throughs for 'further context'. Every time I see another one, I want to die.
 

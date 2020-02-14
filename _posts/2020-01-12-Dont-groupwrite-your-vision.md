@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Don't group-write your product vision
+title: Don't Group-Write Your Product Vision
 ---
 We've all been there. 15 people in a room, staring down the horror of trying to co-author a vision for a product. <!--more-->The abject pain of the person with the pen (often you) trying to coax coherence from the jaws of absurdity. Then when you think you're getting somewhere, from the back of the room someone shouts up - "Won't someone think of the badgers?!" - and you're back to square one. You've got a product vision that is about as robust as a damp flannel.
 
