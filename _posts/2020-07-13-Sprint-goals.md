@@ -10,7 +10,7 @@ This is how scrum.org describes a Sprint Goal. It's neat, and teams generally se
 
 I think this is because "goals" are agnostic of time, and Sprints are not. A goal is ready when it's ready, and done when it's done. A Sprint is finished every 2nd Wednesday. The two can sometimes be aligned, but often this is coincidental rather than by design. I've found that what normally happens is that goals conveniently shrink over time to fit in to a 2 week cadence. This just doesn't work, and sets teams up for failure as well as compromising the view of the goals you want to achieve with your Product.
 
-##Split out your Goals
+## Split out your Goals
 
 I propose a change to how Sprint Goals are used within the team. Simply, have two really visible goals at any time in your team: Sprint Goals and Product Goals.
 
@@ -31,7 +31,7 @@ Use Product Goals to agree _external_ outcomes that you want to achieve. Things 
 
 This should essentially be your roadmap, and the things you're working on should tie up to those outcomes. To achieve these goals, it may take one or more Sprints, but it's still the goal. When you think you've done enough to move on to the next thing, then you can look at your next roadmap item and that can become your goal. If the priority changes, change the Product Goal you're working towards.
 
-##You get a Goal, you get a Goal, everybody gets a Goal
+## You get a Goal, you get a Goal, everybody gets a Goal
 
 In reality, this means making sure that your Sprit Planning sessions include an overview of the progress towards Product Goals, and high-level updates about changes to priority. You can use this to set the context of the work you should be bringing in to Sprint to take you closer to your goals, but allows you the freedom to not tie the success and failure of your Sprints to whether or not you've 'done' things that may take longer than your Sprint to reasonably do.
 
